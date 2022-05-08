@@ -49,3 +49,9 @@ main{
     font-size: 17px;
     font-family: 'Poppins', sans-serif;
 }
+
+@media (max-width: 416px){
+    .container{
+        margin: 1rem 0 0 1rem;
+    }
+}
